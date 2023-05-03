@@ -21,5 +21,12 @@
 			</array>
 		</dict>
 	</dict>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string></string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_selfieshare._udp</string>
+		<string>_selfieshare._tcp</string>
+	</array>
 </dict>
 </plist>
